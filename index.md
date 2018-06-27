@@ -1,3 +1,5 @@
-## Welcome to Ajira GIS GitHub Pages
+## Welcome to Ajira GitHub Pages
 
-Placeholder for project documentation
+# Contribution
+
+See [contributing.md](https://github.com/paxenarius/paxenarius.github.io/blob/master/contributing.md)
